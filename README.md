@@ -10,3 +10,6 @@ Uh yeah that's all I guess, I don't have much to say. Have a good day.
 ### Things I want to do
 - [x] MyAnimeList-based anime recommendation system ([see here](https://github.com/Asudox/anote))
 - [ ] A federated anime tracker with the ActivityPub protocol
+
+### Currently doing
+- Revolt (revolt.chat) Rust Library
