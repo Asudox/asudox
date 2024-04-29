@@ -6,7 +6,7 @@ I know Rust and Python.
 
 ### Things I want to do
 - [x] MyAnimeList-based anime recommendation system ([see here](https://github.com/Asudox/anote))
-- [ ] A federated anime tracker with the ActivityPub protocol ([see here](https://github.com/Asudox/anifed))
+- [ ] A federated anime tracker using the [ActivityPub](https://www.w3.org/TR/activitypub/) protocol ([see here](https://github.com/Asudox/anifed))
 
 ### Currently doing
 - ON HOLD (see README.md): Revolt (revolt.chat) Rust Library
