@@ -2,14 +2,11 @@
 
 Nothing much to see here other than my low quality repos.
 
-I know Python.
-Currently learning the pain-in-the-ass language called JavaScript because of web development and Rust.
-
-Uh yeah that's all I guess, I don't have much to say. Have a good day.
+I know Rust and Python.
 
 ### Things I want to do
 - [x] MyAnimeList-based anime recommendation system ([see here](https://github.com/Asudox/anote))
-- [ ] A federated anime tracker with the ActivityPub protocol
+- [ ] A federated anime tracker with the ActivityPub protocol ([see here](https://github.com/Asudox/anifed))
 
 ### Currently doing
-- ON HOLD: Revolt (revolt.chat) Rust Library
+- ON HOLD (see README.md): Revolt (revolt.chat) Rust Library
