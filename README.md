@@ -12,4 +12,4 @@ Uh yeah that's all I guess, I don't have much to say. Have a good day.
 - [ ] A federated anime tracker with the ActivityPub protocol
 
 ### Currently doing
-- Revolt (revolt.chat) Rust Library
+- ON HOLD: Revolt (revolt.chat) Rust Library
