@@ -10,4 +10,4 @@ I know Rust and Python.
 
 ### Currently doing
 - ON HOLD (see README.md): Revolt (revolt.chat) Rust Library
-- Federated anime tracker
+- Federated audiovisual content tracker
