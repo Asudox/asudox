@@ -4,7 +4,7 @@ Nothing much to see here other than my low quality repos.
 
 I know Rust and Python.
 
-Migrated to Forgejo: https://forgejo.asudox.dev/Asudox
+Migrated to Codeberg: https://codeberg.org/asudox
 
 ### Things I want to do
 - [x] MyAnimeList-based anime recommendation system ([see here](https://github.com/Asudox/anote))
